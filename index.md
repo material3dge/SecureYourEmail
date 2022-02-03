@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Secure Your Email
 
 You can use the [editor on GitHub](https://github.com/material3dge/SecureYourEmail/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
