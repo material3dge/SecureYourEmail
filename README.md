@@ -1,2 +1,2 @@
 # SecureYourEmail
-Protecting against BEC together. 
+Protecting against BEC. Together. 
