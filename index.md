@@ -1,8 +1,11 @@
 
   
 
-I've created document as an easy-to-digest guide to the pillars of email security. This is meant to help administrators understand the basics of email security and implement them for your organization. My hope is that this will reach SMBs across the world and improve our resiliency to email-based threats. If we all implement these changes, we are all safer.
+I've created document as an easy-to-digest guide to the pillars of email security. This is meant to help administrators understand the basics of email security and implement them for your organization. My hope is that this will reach SMBs across the world and improve our resiliency to email-based threats. 
 
+If we all implement these changes, we are all safer.
+
+---
 
 You can use the [editor on GitHub](https://github.com/material3dge/SecureYourEmail/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
