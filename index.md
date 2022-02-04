@@ -1,8 +1,5 @@
 
-
-
-
-Things keep changing. But email has been there since the beginning and will stick around for the forseeable future (if fax is any indication). It's become the single largest vector for cyber attacks and will continue to grow. 
+###
 
 I've created document as an easy-to-digest guide to the pillars of email security. This is meant to help administrators understand the basics of email security and implement them for your organization. My hope is that this will reach SMBs across the world and improve our resiliency to email-based threats. If we all implement these changes, we are all safer.
 
