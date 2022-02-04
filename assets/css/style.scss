@@ -74,8 +74,9 @@ header {
   p {
     margin:0;
     color:#61778B;
-    width:300px;
+    width:auto;
     font-size:13px;
+    text-align:center;
 
     &.view {
       display:none;
