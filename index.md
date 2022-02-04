@@ -1,6 +1,4 @@
-## Secure Your Email
-
-The pandemic changed the way people work. We no longer work side-by-side in cubiclecenters, but instead from the comforts of our homes. Before that our infrastructure lived on-premises, tucked away in a locked server room humming away. We migrated these systems to the cloud for a wide variety of reasons. 
+## Let's protect your email. together.
 
 Things keep changing. But email has been there since the beginning and will stick around for the forseeable future (if fax is any indication). It's become the single largest vector for cyber attacks and will continue to grow. 
 
