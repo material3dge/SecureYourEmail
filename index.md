@@ -3,9 +3,20 @@
 
 I've created document as an easy-to-digest guide to the pillars of email security. This is meant to help administrators understand the basics of email security and implement them for your organization. My hope is that this will reach SMBs across the world and improve our resiliency to email-based threats. 
 
-If we all implement these changes, we are all safer.
+**If we all implement these changes, we are all safer**.
 
 ---
+
+### Overview
+
+Adoption of email standards is the biggest step we can take to improve our security posture. Thankfully, these standards have no costs associated with them other than your time. This is particularly helpful for those organizations with budget restraints. 
+
+On this page, we'll be walking through the deployment of the following standards together:
+- Sender Policy Framework (SPF)
+- DomainKeys Identified Mail (DKIM)
+- Domain-based Message Authentication, Reporting, and Conformance (DMARC)
+- Brand Indicators for Message Identification (BIMI)
+
 
 You can use the [editor on GitHub](https://github.com/material3dge/SecureYourEmail/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
