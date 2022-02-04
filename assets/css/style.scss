@@ -51,20 +51,20 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#C6EAFA;
-  background: linear-gradient(#DDFBFC, #C6EAFA);
+  background:#ea771a;
+  background: linear-gradient(#e8883b, #ea771a);
   position:relative;
   padding:15px 20px;
-  border-bottom:1px solid #B2D2E1;
+  border-bottom:1px solid #ea6a02;
 
   h1 {
-    margin:0;
-    padding:0;
-    font-size:24px;
-    line-height:1.2;
-    color:#069;
-    text-shadow:rgba(#fff, 0.9) 0 1px 0;
-    text-align:center;
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+    line-height: 1.2;
+    color: #fff;
+    text-shadow: rgb(162, 161, 161) 0 1px 0;
+    text-align: center;
   }
 
   &.without-description h1 {
@@ -72,11 +72,12 @@ header {
   }
 
   p {
-    margin:0;
-    color:#61778B;
-    width:auto;
-    font-size:13px;
-    text-align:center;
+    margin: 0;
+    color: #fff;
+    width: auto;
+    font-size: 14px;
+    text-align: center;
+    text-shadow: rgb(162, 161, 161) 0 0.5px 0;
 
     &.view {
       display:none;
