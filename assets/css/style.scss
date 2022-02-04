@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700');
 
 html {
   background:#6C7989;
@@ -15,7 +15,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
   background:url('../images/checker.png') fixed;
